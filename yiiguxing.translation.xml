@@ -1,0 +1,70 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="1279" />
+    <option name="newTranslationDialogY" value="544" />
+    <histories>
+      <item value="A module cannot have multiple default exports" />
+      <item value="请输入正确的邮箱" />
+      <item value="请完整填写" />
+      <item value="'请完整填写" />
+      <item value="'请完整填写。'" />
+      <item value="Swap" />
+      <item value="project" />
+      <item value="稀有度" />
+      <item value="灯" />
+      <item value="deng" />
+      <item value="自定义" />
+      <item value="stack" />
+      <item value="碎片" />
+      <item value="余额" />
+      <item value="yue" />
+      <item value="资产" />
+      <item value="give " />
+      <item value="chain" />
+      <item value="惊喜" />
+      <item value="龙珠" />
+      <item value="Cost" />
+      <item value="卖出" />
+      <item value="卖出了" />
+      <item value="价格" />
+      <item value="auction/" />
+      <item value="cancel" />
+      <item value="try" />
+      <item value="购" />
+      <item value="gou" />
+      <item value="purchase" />
+      <item value="内购" />
+      <item value="购买" />
+      <item value="An index signature parameter type cannot be a union type. Consider using a mapped object type instead" />
+      <item value="抽奖" />
+      <item value="lottery" />
+      <item value="chou jiang" />
+      <item value="授奖" />
+      <item value="shou jiang" />
+      <item value="矿机" />
+      <item value="kuang ji" />
+      <item value="fee" />
+      <item value="手续费" />
+      <item value="free" />
+      <item value="提现" />
+      <item value="ti xian" />
+      <item value="组件" />
+      <item value="component" />
+      <item value="assets" />
+      <item value="ass" />
+      <item value="aa" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="161" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1630857019583" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
