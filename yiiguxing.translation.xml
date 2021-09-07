@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="1279" />
     <option name="newTranslationDialogY" value="544" />
     <histories>
+      <item value="拥有数量" />
+      <item value="稀有度" />
+      <item value="                  placeholder={intl.formatMessage({id: &quot;请输入起拍价格&quot;})}&#10;" />
+      <item value="请输入正确的价格" />
+      <item value="人物卡" />
+      <item value="'人物卡" />
+      <item value="'人物卡'" />
       <item value="请完整填写" />
       <item value="A module cannot have multiple default exports" />
       <item value="请输入正确的邮箱" />
@@ -10,7 +17,6 @@
       <item value="'请完整填写。'" />
       <item value="Swap" />
       <item value="project" />
-      <item value="稀有度" />
       <item value="灯" />
       <item value="deng" />
       <item value="自定义" />
@@ -47,12 +53,6 @@
       <item value="手续费" />
       <item value="free" />
       <item value="提现" />
-      <item value="ti xian" />
-      <item value="组件" />
-      <item value="component" />
-      <item value="assets" />
-      <item value="ass" />
-      <item value="aa" />
     </histories>
     <option name="languageScores">
       <map>
