@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1279" />
     <option name="newTranslationDialogY" value="544" />
     <histories>
+      <item value="correct" />
       <item value="原因" />
       <item value="拥有数量" />
       <item value="稀有度" />
@@ -52,12 +53,11 @@
       <item value="kuang ji" />
       <item value="fee" />
       <item value="手续费" />
-      <item value="free" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="ENGLISH" value="162" />
       </map>
     </option>
   </component>
