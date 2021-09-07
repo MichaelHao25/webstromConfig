@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1279" />
     <option name="newTranslationDialogY" value="544" />
     <histories>
+      <item value="原因" />
       <item value="拥有数量" />
       <item value="稀有度" />
       <item value="                  placeholder={intl.formatMessage({id: &quot;请输入起拍价格&quot;})}&#10;" />
@@ -52,7 +53,6 @@
       <item value="fee" />
       <item value="手续费" />
       <item value="free" />
-      <item value="提现" />
     </histories>
     <option name="languageScores">
       <map>
