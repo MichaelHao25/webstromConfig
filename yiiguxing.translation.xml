@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1279" />
     <option name="newTranslationDialogY" value="544" />
     <histories>
+      <item value="问题" />
       <item value="A module cannot have multiple default exports" />
       <item value="请输入正确的邮箱" />
       <item value="请完整填写" />
@@ -52,12 +53,12 @@
       <item value="component" />
       <item value="assets" />
       <item value="ass" />
-      <item value="aa" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="172" />
         <entry key="ENGLISH" value="161" />
+        <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
