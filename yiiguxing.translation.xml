@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="509" />
     <histories>
+      <item value="is Discount Goods" />
+      <item value="is DiscountGoods" />
+      <item value="isDiscountGoods" />
       <item value="user info" />
       <item value="userinfo" />
       <item value="use rinfo" />
@@ -50,14 +53,11 @@
       <item value="手续费" />
       <item value="free" />
       <item value="提现" />
-      <item value="ti xian" />
-      <item value="组件" />
-      <item value="component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="162" />
       </map>
     </option>
   </component>
