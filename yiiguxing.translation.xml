@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="509" />
     <histories>
+      <item value="Package items cannot be added to shopping cart" />
       <item value="is Discount Goods" />
       <item value="is DiscountGoods" />
       <item value="isDiscountGoods" />
@@ -52,12 +53,11 @@
       <item value="fee" />
       <item value="手续费" />
       <item value="free" />
-      <item value="提现" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="175" />
+        <entry key="ENGLISH" value="163" />
       </map>
     </option>
   </component>
