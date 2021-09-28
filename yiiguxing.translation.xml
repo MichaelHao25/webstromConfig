@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1279" />
     <option name="newTranslationDialogY" value="544" />
     <histories>
+      <item value="s" />
+      <item value="ssion" />
       <item value="余额" />
       <item value="yue" />
       <item value="Cart" />
@@ -51,13 +53,11 @@
       <item value="shou jiang" />
       <item value="矿机" />
       <item value="kuang ji" />
-      <item value="fee" />
-      <item value="手续费" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="173" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
