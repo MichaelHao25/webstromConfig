@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="1279" />
     <option name="newTranslationDialogY" value="544" />
     <histories>
+      <item value="s" />
+      <item value="ssion" />
+      <item value="余额" />
+      <item value="yue" />
       <item value="Cart" />
       <item value="g r" />
       <item value="goodDetails" />
@@ -24,8 +28,6 @@
       <item value="自定义" />
       <item value="stack" />
       <item value="碎片" />
-      <item value="余额" />
-      <item value="yue" />
       <item value="资产" />
       <item value="give " />
       <item value="chain" />
@@ -51,21 +53,16 @@
       <item value="shou jiang" />
       <item value="矿机" />
       <item value="kuang ji" />
-      <item value="fee" />
-      <item value="手续费" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="183" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="173" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1633198198579" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
